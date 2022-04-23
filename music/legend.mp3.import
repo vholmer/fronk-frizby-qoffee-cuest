@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/legend.mp3-6ab382ae86cb7b1a2433f5f44414aec3.mp3str"
+
+[deps]
+
+source_file="res://music/legend.mp3"
+dest_files=[ "res://.import/legend.mp3-6ab382ae86cb7b1a2433f5f44414aec3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

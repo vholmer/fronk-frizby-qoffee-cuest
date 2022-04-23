@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/fronk.wav-980bb2d621ed8a2db981c828f667fc61.sample"
+
+[deps]
+
+source_file="res://sfx/fronk.wav"
+dest_files=[ "res://.import/fronk.wav-980bb2d621ed8a2db981c828f667fc61.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

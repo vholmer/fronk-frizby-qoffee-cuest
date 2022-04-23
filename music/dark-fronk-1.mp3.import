@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/dark-fronk-1.mp3-4b6298575f36941f845c1a76465c2ac4.mp3str"
+
+[deps]
+
+source_file="res://music/dark-fronk-1.mp3"
+dest_files=[ "res://.import/dark-fronk-1.mp3-4b6298575f36941f845c1a76465c2ac4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

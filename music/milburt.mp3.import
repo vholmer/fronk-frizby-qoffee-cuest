@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/milburt.mp3-4a53e2ff90d0a2426b7c264ae12d9590.mp3str"
+
+[deps]
+
+source_file="res://music/milburt.mp3"
+dest_files=[ "res://.import/milburt.mp3-4a53e2ff90d0a2426b7c264ae12d9590.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

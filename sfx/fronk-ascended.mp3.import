@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fronk-ascended.mp3-17ba2ce048a27827c12fc0cb57a1d0d1.mp3str"
+
+[deps]
+
+source_file="res://sfx/fronk-ascended.mp3"
+dest_files=[ "res://.import/fronk-ascended.mp3-17ba2ce048a27827c12fc0cb57a1d0d1.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

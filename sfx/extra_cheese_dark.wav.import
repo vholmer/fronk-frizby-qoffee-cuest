@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/extra_cheese_dark.wav-8a03898054016d611f22449fc9221038.sample"
+
+[deps]
+
+source_file="res://sfx/extra_cheese_dark.wav"
+dest_files=[ "res://.import/extra_cheese_dark.wav-8a03898054016d611f22449fc9221038.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

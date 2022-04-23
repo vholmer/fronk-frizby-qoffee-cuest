@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/clown.wav-9f7927465925154f9157c9e610ba584d.sample"
+
+[deps]
+
+source_file="res://sfx/clown.wav"
+dest_files=[ "res://.import/clown.wav-9f7927465925154f9157c9e610ba584d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
